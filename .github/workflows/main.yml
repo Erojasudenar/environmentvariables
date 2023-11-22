@@ -1,0 +1,18 @@
+name: Prueba de Integración Continua
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  prueba:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repositorio
+        uses: actions/checkout@v2
+
+      - name: Ejecutar Script de Prueba
+        run: |
+          echo "¡Hola, esto es una prueba!"
