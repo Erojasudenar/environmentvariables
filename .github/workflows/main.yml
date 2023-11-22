@@ -4,7 +4,9 @@ on:
   push:
     branches:
       - main
-
+env:
+  NAME_USER: prueba 002
+  
 jobs:
   prueba:
     runs-on: ubuntu-latest
