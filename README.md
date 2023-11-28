@@ -30,10 +30,9 @@ This project is a service created using the NestJS framework, and it utilizes th
 
 
 ## Prerequisites
-```bash
 NodeJS Version: 18.16.0
 MySQL Version: 2.18.1
-```
+
 
 ## Installation
 
