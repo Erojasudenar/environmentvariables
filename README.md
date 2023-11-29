@@ -27,6 +27,7 @@
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 This project is a service created using the NestJS framework, and it utilizes the NestJS Mailer module, which allows managing prospects, agents, and notifications related to the management and validation of the email sending process.
+To install the project, it is necessary to verify the following prerequisites: Have Node.js and npm installed. You can install [Download and install Node.js](https://nodejs.org/en)
 
 
 ## Prerequisites
